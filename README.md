@@ -1,2 +1,3 @@
-# Busroute-Navigation-
-A project for making bus route navigation easier based on the traffic analysis.
+# Busroute-Navigation-Tool
+<br>
+A Project based on the Busroute Navigation using Folium by constructing a MST between the BusStops.
